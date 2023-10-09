@@ -1,5 +1,22 @@
-# lessayala.github.io# lessayala.github.io
-Lesley Ayala layala@my.waketech.edu
-My new Github account for web programming
-I used Github to make my repository and saved the clone to my hard drive.
-i seleted the add icon and clicked on clone a repository. Then i selected the one with my name, added a small summary and cloned it to my hard drive
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Personal Introduction</title>
+    <style>body{
+  background-color: #d81755; }
+      h1 {
+        color:#eb9c9f;
+      }
+      p {
+color: #CA1A58;
+}
+color:#e2848f;
+}
+    </style>
+  </head>
+  <body><h1>My name is Lesley Ayala</h1>
+    <p>>I am 24 years old 
+    I have a dog and a cat
+    I love to go to the gym</p
+  </body>
+</html>
